@@ -11,7 +11,7 @@ DEPENDENCIES:
   - RxSwift
 
 SPEC REPOS:
-  trunk:
+  https://github.com/cocoapods/specs.git:
     - RxCocoa
     - RxRelay
     - RxSwift
@@ -23,4 +23,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 5de733ea583f703c107cddf91a32a17ba41f80a6
 
-COCOAPODS: 1.9.1
+COCOAPODS: 1.7.5
